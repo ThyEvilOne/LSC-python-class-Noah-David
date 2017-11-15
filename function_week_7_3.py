@@ -1,3 +1,4 @@
+#Work done by Noah and David
 def vowels():
     user_list = str(input('Enter string: '))
 
@@ -28,6 +29,6 @@ def consonants():
 
     return consonant_count
 
-print(vowels())
-print(consonants())
+print('Numbers of vowels:', vowels())
+print('Numbers of consonants:', consonants())
     

@@ -1,3 +1,4 @@
+#Work done by Noah and David
 user_sentence = str(input('Enter sentence: '))
 
 def split():

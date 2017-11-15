@@ -1,3 +1,4 @@
+#Work done by Noah and David
 phone_number = str(input('Enter phone number XXX-XXX-XXXX: '))
 
 def translate():
